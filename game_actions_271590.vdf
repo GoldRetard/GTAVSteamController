@@ -1,0 +1,82 @@
+"In Game Actions"
+{
+	"actions"
+	{
+		"Menu"
+		{
+			"title"				"#Set_Menu"
+			"StickPadGyro"
+			{
+				"Camera"
+				{
+					"title"			"#Action_Camera"
+					"input_mode"	"absolute_mouse"
+				}
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+			}
+		}
+		"OnFoot"
+		{
+			"title"				"#Set_OnFoot"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+			}
+		}
+		"InVehicle"
+		{
+			"title"				"#Set_InVehicle"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+			}
+		}
+		"InFlyingVehicle"
+		{
+			"title"				"#Set_InFlyingVehicle"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+			}
+		}
+	}
+	"localization"
+	{
+		"english"
+		{
+			"Set_Menu"					"Menu"
+			"Set_OnFoot"				"Foot"
+			"Set_InVehicle"				"Vehicle"
+			"Set_InFlyingVehicle"		"Flying Vehicle"
+			"Action_Camera"				"Camera"
+		}
+		"russian"
+		{
+			"Set_Menu"					"Меню"
+			"Set_OnFoot"				"Пешком"
+			"Set_InVehicle"				"Транспорт"
+			"Set_InFlyingVehicle"		"Возд. транспорт"
+			"Action_Camera"				"Камера"
+		}
+	}
+}
